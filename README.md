@@ -7,4 +7,4 @@ Projects include:
 2. 7 Segment display common anode type with LPC2148/38
 3. LCD interfacing with IR sensors on LPC2148/38
 
-I thank my teacher Dr.Mohan Kumar J for helping me explore new things in embedded systems.
+I thank my teacher Dr.Mohan Kumar J for helping me explore new things in the field of embedded systems.
